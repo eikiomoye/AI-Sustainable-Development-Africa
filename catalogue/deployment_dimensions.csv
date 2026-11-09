@@ -1,0 +1,7 @@
+dimension,article_condition_paraphrase,article_implication_paraphrase,source_table,source_printed_page,provenance
+computational_resources,"Limited compute, hardware access or costly cloud resources.","Lightweight models, compression and hardware-aware optimisation.",4,12,new_companion_paraphrase
+data_resources,"Sparse, fragmented, incomplete or unrepresentative local data.","Local data work, careful validation and appropriate transfer or decentralised approaches.",4,12,new_companion_paraphrase
+infrastructure_resources,"Unstable electricity, connectivity, bandwidth or device access.","Offline capability, intermittent synchronisation, edge inference and resilient operation.",4,12,new_companion_paraphrase
+institutional_resources,"Uneven governance, enforcement and procurement capacity.","Accountability, transparency and context-specific safeguards.",4,12,new_companion_paraphrase
+human_capacity_resources,"Limited technical expertise, maintenance capacity or user literacy.","Training, local support, participatory design and long-term capacity.",4,12,new_companion_paraphrase
+equity_and_access,"Unequal access by geography, income, language or institution.","Inclusive design, affordability, multilingual access and attention to exclusion.",4,12,new_companion_paraphrase

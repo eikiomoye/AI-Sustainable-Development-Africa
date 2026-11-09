@@ -1,0 +1,7 @@
+dimension,discussion_prompt,state,observed_condition,evidence_source,evidence_date,stakeholder_feedback,responsible_owner,next_review_date,notes
+computational_resources,"Limited compute, hardware access or costly cloud resources.",not_assessed,,,,,,,
+data_resources,"Sparse, fragmented, incomplete or unrepresentative local data.",not_assessed,,,,,,,
+infrastructure_resources,"Unstable electricity, connectivity, bandwidth or device access.",not_assessed,,,,,,,
+institutional_resources,"Uneven governance, enforcement and procurement capacity.",not_assessed,,,,,,,
+human_capacity_resources,"Limited technical expertise, maintenance capacity or user literacy.",not_assessed,,,,,,,
+equity_and_access,"Unequal access by geography, income, language or institution.",not_assessed,,,,,,,

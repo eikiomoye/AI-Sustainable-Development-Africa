@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-09",
+  "scope": "structural validation and utility checks; no original screening or empirical framework validation",
+  "passed": 40,
+  "total": 40,
+  "checks": [
+    {
+      "check": "72 continuous unique reference numbers",
+      "passed": true
+    },
+    {
+      "check": "Reference CSV and JSON match",
+      "passed": true
+    },
+    {
+      "check": "All reference source pages account for cover",
+      "passed": true
+    },
+    {
+      "check": "No publisher disclaimer in last reference",
+      "passed": true
+    },
+    {
+      "check": "Reference 15 article number retained",
+      "passed": true
+    },
+    {
+      "check": "framework_layers.csv count",
+      "passed": true
+    },
+    {
+      "check": "framework_layers.csv source locator",
+      "passed": true
+    },
+    {
+      "check": "deployment_dimensions.csv count",
+      "passed": true
+    },
+    {
+      "check": "deployment_dimensions.csv source locator",
+      "passed": true
+    },
+    {
+      "check": "sectoral_domains.csv count",
+      "passed": true
+    },
+    {
+      "check": "sectoral_domains.csv source locator",
+      "passed": true
+    },
+    {
+      "check": "research_priorities.csv count",
+      "passed": true
+    },
+    {
+      "check": "research_priorities.csv source locator",
+      "passed": true
+    },
+    {
+      "check": "reported_selection_counts.csv count",
+      "passed": true
+    },
+    {
+      "check": "reported_selection_counts.csv source locator",
+      "passed": true
+    },
+    {
+      "check": "reported_exclusion_reasons.csv count",
+      "passed": true
+    },
+    {
+      "check": "reported_exclusion_reasons.csv source locator",
+      "passed": true
+    },
+    {
+      "check": "Deduplication arithmetic",
+      "passed": true
+    },
+    {
+      "check": "Screening arithmetic",
+      "passed": true
+    },
+    {
+      "check": "Retrieval arithmetic",
+      "passed": true
+    },
+    {
+      "check": "Eligibility arithmetic",
+      "passed": true
+    },
+    {
+      "check": "Exclusion reasons total39",
+      "passed": true
+    },
+    {
+      "check": "Bibliography72 distinguished from included26",
+      "passed": true
+    },
+    {
+      "check": "Source PDF hash unchanged",
+      "passed": true
+    },
+    {
+      "check": "Citation credits authors in published order",
+      "passed": true
+    },
+    {
+      "check": "Paper DOI consistent",
+      "passed": true
+    },
+    {
+      "check": "Blank worksheet has six matching dimensions",
+      "passed": true
+    },
+    {
+      "check": "All worksheet entries start not assessed",
+      "passed": true
+    },
+    {
+      "check": "Reference query 1",
+      "passed": true
+    },
+    {
+      "check": "Reference query 24",
+      "passed": true
+    },
+    {
+      "check": "Reference query 72",
+      "passed": true
+    },
+    {
+      "check": "Reference query 999",
+      "passed": true
+    },
+    {
+      "check": "Text search matches citations",
+      "passed": true
+    },
+    {
+      "check": "Blank worksheet summarises no assessed states",
+      "passed": true
+    },
+    {
+      "check": "Assessed state without evidence is identified",
+      "passed": true
+    },
+    {
+      "check": "Evidence entry clears missing-evidence flag",
+      "passed": true
+    },
+    {
+      "check": "Unknown state rejected",
+      "passed": true
+    },
+    {
+      "check": "Duplicate dimensions rejected",
+      "passed": true
+    },
+    {
+      "check": "Invalid reference limit rejected",
+      "passed": true
+    },
+    {
+      "check": "Utility compiles",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+domain,article_summary_paraphrase,context_constraints_paraphrase,source_section,source_table,source_printed_pages,evidence_mapping_status
+Healthcare,"Diagnosis, imaging, risk prediction and decision support.","Local data, validation, bias and service infrastructure.",4,2,9-10,domain_level_only_Table2_reference_numbers_inconsistent
+Agriculture,"Disease detection, monitoring, precision agriculture and farming information.","Data quality, affordability, connectivity, skills and adoption.",4,2,9-10,domain_level_only_Table2_reference_numbers_inconsistent
+Education,"Adaptive learning, tutoring and learning analytics.","Digital access, privacy, implementation and institutional readiness.",4,2,9-10,domain_level_only_Table2_reference_numbers_inconsistent
+Environment,"Climate analysis, remote sensing, biodiversity and monitoring.","Computational demand, local data availability and infrastructure.",4,2,9-10,domain_level_only_Table2_reference_numbers_inconsistent
+Governance and infrastructure,"Ethics, digital inclusion, infrastructure and decentralised learning.","Governance capacity, institutional ownership and unequal access.",4,2,9-10,domain_level_only_Table2_reference_numbers_inconsistent
